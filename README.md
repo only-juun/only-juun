@@ -11,13 +11,26 @@
     <h3>👋 Hi! There!</h3>
     <h3>👨‍💻 <b>I'm Back-End Developer</b> 👨‍💻</h3></br>
     <h1>📬 How to reach me? 📬</h1>
+    <h3>My Portfolio &nbsp&nbsp👉 &nbsp&nbsp
+    <a href="https://bit.ly/onlyjoon">
+    <img src="https://img.shields.io/badge/Portfolio-EE6123?style=flat-square&logo=Bitly&logoColor=white">
+    </a></h3>
     <h3>My Email &nbsp&nbsp👉 &nbsp&nbsp
     <a href="mailto:"nhj7334@icloud.com">
     <img src="https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=iCloud&logoColor=white">
     </a></h3>
-    <h3>Velog &nbsp&nbsp👉 &nbsp&nbsp
+    <h3>My Velog &nbsp&nbsp👉 &nbsp&nbsp
     <a href="https://velog.io/@nhj9974">
     <img src="http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
+    </a></h3>
+<br>
+<div style="display:flex; flex-direction:row;">
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nhj9974)](https://velog.io/@nhj9974)
+</div>
+
+
+</div><br>
     </a></h3></br>
     <h1 align="center">💻 Tech Stack 💻</h1>
     <p>
