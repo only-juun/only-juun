@@ -1,10 +1,11 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Only%20Joon&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
-<p align='center'>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonly-juun%2Fonly-juun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-</p>
 
+<p align='center'>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonly-juun%2Fonly-juun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+    <a href="https://img.shields.io"><img src="https://img.shields.io/github/followers/only-juun?style=social"/></a>
+</p>
 
 <div align="center">
     <h1 align="center">🌱 About ME 🌱</h1>
@@ -55,7 +56,9 @@
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
     </p></br>
-    <h1>Opensource Contribution</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=only-juun&anuraghazra&show_icons=true&theme=tokyonight"></br></br></br>
+    <h1>Info</h1>
+    <img src="https://github-readme-stats.vercel.app/api?username=only-juun&anuraghazra&show_icons=true&theme=tokyonight"></br>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhj7334"></br></br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-juun&layout=compact">
 </div>
+
