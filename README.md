@@ -1,3 +1,5 @@
+<div align=center>
+
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Only%20Joon&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
@@ -62,3 +64,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-juun&layout=compact">
 </div>
 
+</div>
