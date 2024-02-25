@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <p align=center>
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Onlyjoon's%20%20Git%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Onlyjoon's%20%20Git%20🙌&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&height=120"/>
 </p>
 
 <!-- 바디1 -->
@@ -16,7 +16,7 @@
 
 <!-- 바디2 -->
 <div align=center>
-    <h2> 💻 Tech Stack </h2>
+    <h2> 💻 Skills </h2>
     <p>
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
         <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white"><br>
