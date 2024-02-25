@@ -16,7 +16,7 @@
 
 <!-- 바디2 -->
 <div align=center>
-    <h2> 💻 Skills </h2>
+    <h2> ⌨️ Skills </h2>
     <p>
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
         <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white"><br>
@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><br>
     </p><br>
-    <h2> ⚒ Collaboration Tool </h2>
+    <h2> 🤝 Collaboration Tool </h2>
     <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br>
