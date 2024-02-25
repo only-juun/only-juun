@@ -5,7 +5,7 @@
 
 <!-- 바디1 -->
 <div align="center">
-    <h2>📬 How to reach me?</h2>
+    <h2> 🏷️ How to reach me?</h2>
     <a href="https://bit.ly/onlyjoon"><img src="https://img.shields.io/badge/Portfolio-EE6123?style=flat-square&logo=Bitly&logoColor=white"></a>
     <a href="mailto:"nhj7334@icloud.com"><img src="https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"></a>
     <a href="https://velog.io/@nhj9974"><img src="http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
