@@ -10,7 +10,7 @@
     <a href="mailto:"nhj7334@icloud.com"><img src="https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"></a>
     <a href="https://velog.io/@nhj9974"><img src="http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nhj9974)](https://velog.io/@nhj9974)
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nhj9974)](https://velog.io/@nhj9974) -->
 
 <br>
 
@@ -34,9 +34,8 @@
         <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"><br>
     </p><br>
     <h2> 🔎 Info</h2>
-        <a href="https://github.com/only-juun"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonly-juun%2Fonly-juun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-        <a href="https://github.com/only-juun?tab=followers"><img src="https://img.shields.io/github/followers/only-juun?style=social"/></a><br>
+<!--        <a href="https://github.com/only-juun"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonly-juun%2Fonly-juun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+        <a href="https://github.com/only-juun?tab=followers"><img src="https://img.shields.io/github/followers/only-juun?style=social"/></a><br> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-juun"><br>
         <img src="https://github-readme-stats.vercel.app/api?username=only-juun&anuraghazra&show_icons=true"><br>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhj7334"><br>
 </div>
